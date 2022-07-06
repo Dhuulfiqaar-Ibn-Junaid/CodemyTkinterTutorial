@@ -5,4 +5,4 @@ Assalamualaikum Dunya! This is an ATTEMPT of mine to learn Python GUI and to sta
 1) assalamualaikum.py
 2) grid.py
 3) button_label.py
-4) 
+4) entry_label_button.py
